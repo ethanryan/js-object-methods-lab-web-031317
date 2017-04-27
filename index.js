@@ -42,7 +42,7 @@ class President {
 //var d = new Dog('Mitzie');
 var gw = new President('George Washington');
 var honestAbe = new President('Abraham Lincoln');
-var tickyDick = new President('Richard Nixon');
+var trickyDick = new President('Richard Nixon');
 var peanutFarmer = new President('Jimmy Carter');
 
 
