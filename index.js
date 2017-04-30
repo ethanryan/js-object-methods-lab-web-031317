@@ -18,16 +18,16 @@ class President {
     this.homeState = homeState;
   }
 
-   veto() {
+  veto() {
     return "NO!";
   }
 
   passBill() {
-   return "You can do that!";
- }
+    return "You can do that!";
+  }
 
- doCharity() {
-   return "I like to help people.";
+  doCharity() {
+    return "I like to help people.";
   }
 
   conductPressInterview() {
